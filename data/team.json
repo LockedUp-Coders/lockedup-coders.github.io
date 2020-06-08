@@ -1,6 +1,7 @@
 [
     {
         "name":"John Doe",
+        "role":"admin/maintainer/contributor",
         "profile_pic":"path/to/photos/johnDoe.jpg",
         "email":"johndoe@example.com",
         "github_link": "https://github.com/johndoe",
@@ -8,6 +9,7 @@
     },
     {
         "name":"Vivek Shah",
+        "role":"contributor",
         "profile_pic":"../assets/team/vivek.jpg",
         "email":"vivekshah9969@gmail.com",
         "github_link": "https://github.com/vivekshah1801",
