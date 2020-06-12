@@ -10,7 +10,7 @@
     {
         "name":"Vivek Shah",
         "role":"contributor",
-        "profile_pic":"../assets/team/vivek.jpg",
+        "profile_pic":"../assets/images/vivek.jpg",
         "email":"vivekshah9969@gmail.com",
         "github_link": "https://github.com/vivekshah1801",
         "linkedIn_link": "https://www.linkedin.com/in/vivekshah1801/"
@@ -18,7 +18,7 @@
     {
         "name":"vipul krishna",
         "role":"contributor",
-        "profile_pic":"../assets/team/vipul.jpg",
+        "profile_pic":"../assets/images/vipul.jpg",
         "email":"vipul07.mathuria@gmail.com",
         "github_link":"https://github.com/vipul1999",
         "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
@@ -31,4 +31,11 @@
         "github_link":"https://github.com/winay05",
         "linkedIn_link":"https://www.linkedin.com/in/vinay-kumar-dahiya-2138a1179/"
     }
-]
+    {
+        "name":"Aryan Vats",
+        "role":"contributor",
+        "profile_pic":"../assets/images/aryan.png",
+        "email":"avats101@gmail.com",
+        "github_link":"https://github.com/avats101",
+        "linkedIn_link":"https://www.linkedin.com/in/aryan-vats/"
+    }
