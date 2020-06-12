@@ -32,6 +32,13 @@
         "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
     },
     {
+        "name":"Versha Mishra",
+        "role":"contributor",
+        "profile_pic":"../assets/images/versha_mishra.jpg",
+        "email":"vershamishra13@gmail.com",
+        "github_link":"https://github.com/VershaCoder",
+        "linkedIn_link":"https://www.linkedin.com/in/versha-mishra-4b4376125/"
+    },{
         "name":"Karan Kartikeya",
         "role":"contributor",
         "profile_pic":"../assets/images/karan.jpg",
