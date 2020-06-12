@@ -1,66 +1,66 @@
 [
-    {
-        "name":"John Doe",
-        "role":"admin/maintainer/contributor",
-        "profile_pic":"../assets/images/johnDoe.jpg",
-        "email":"johndoe@example.com",
-        "github_link": "https://github.com/johndoe",
-        "linkedIn_link": "https://www.linkedin.com/in/johndoe/"
-    },
-    {
-        "name":"Vivek Shah",
-        "role":"contributor",
-        "profile_pic":"../assets/images/vivek.jpg",
-        "email":"vivekshah9969@gmail.com",
-        "github_link": "https://github.com/vivekshah1801",
-        "linkedIn_link": "https://www.linkedin.com/in/vivekshah1801/"
-    },
-     {
-        "name":"Prachi Singhal",
-        "role":"contributor",
-        "profile_pic":"../assets/team/prachi.jpg",
-        "email":"prachisinghals076@gmail.com",
-        "github_link": "https://github.com/PrachiSinghal86",
-        "linkedIn_link": "https://www.linkedin.com/in/prachi-singhal-b73553159/"
-     },
-    {
-        "name":"vipul krishna",
-        "role":"contributor",
-        "profile_pic":"../assets/images/vipul.jpg",
-        "email":"vipul07.mathuria@gmail.com",
-        "github_link":"https://github.com/vipul1999",
-        "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
-    },
-    {
-        "name":"Karan Kartikeya",
-        "role":"contributor",
-        "profile_pic":"../assets/images/karan.jpg",
-        "email":"karankartikey72@gmail.com",
-        "github_link":"https://github.com/karankartikeya",
-        "linkedIn_link":"https://www.linkedin.com/in/karankartikeya/"
-    },
-    {
-        "name":"Tanay Raj",
-        "role":"contributor",
-        "profile_pic":"../assets/images/tanay.jpg",
-        "email":"tanay.raj76@gmail.com",
-        "github_link":"https://github.com/tanay13",
-        "linkedIn_link":"https://www.linkedin.com/in/tanay-raj-4761121a1/"
-    },
-    {
-        "name":"Vinay",
-        "role":"contributor",
-        "profile_pic":"../assets/team/vinay.jpg",
-        "email":"vinay.manipal05@gmail.com",
-        "github_link":"https://github.com/winay05",
-        "linkedIn_link":"https://www.linkedin.com/in/vinay-kumar-dahiya-2138a1179/"
-    },
-    {
-        "name":"Aryan Vats",
-        "role":"contributor",
-        "profile_pic":"../assets/images/aryan.png",
-        "email":"avats101@gmail.com",
-        "github_link":"https://github.com/avats101",
-        "linkedIn_link":"https://www.linkedin.com/in/aryan-vats/"
-    }
+  {
+    "name": "Yash Kumar Verma",
+    "role": "admin",
+    "profile_pic": "yashkumarverma.jpg",
+    "email": "yk.verma2000@gmail.com",
+    "github_link": "yashkumarverma",
+    "linkedIn_link": "yash-kumar-verma"
+  },
+  {
+    "name": "Vivek Shah",
+    "role": "contributor",
+    "profile_pic": "vivek.jpg",
+    "email": "vivekshah9969@gmail.com",
+    "github_link": "vivekshah1801",
+    "linkedIn_link": "in/vivekshah1801"
+  },
+  {
+    "name": "Prachi Singhal",
+    "role": "contributor",
+    "profile_pic": "prachi.jpg",
+    "email": "prachisinghals076@gmail.com",
+    "github_link": "PrachiSinghal86",
+    "linkedIn_link": "prachi-singhal-b73553159"
+  },
+  {
+    "name": "vipul krishna",
+    "role": "contributor",
+    "profile_pic": "vipul.jpg",
+    "email": "vipul07.mathuria@gmail.com",
+    "github_link": "vipul1999",
+    "linkedIn_link": "vipulkrishna"
+  },
+  {
+    "name": "Karan Kartikeya",
+    "role": "contributor",
+    "profile_pic": "karan.jpg",
+    "email": "karankartikey72@gmail.com",
+    "github_link": "karankartikeya",
+    "linkedIn_link": "karankartikeya"
+  },
+  {
+    "name": "Tanay Raj",
+    "role": "contributor",
+    "profile_pic": "tanay.jpg",
+    "email": "tanay.raj76@gmail.com",
+    "github_link": "tanay13",
+    "linkedIn_link": "tanay-raj-4761121a1"
+  },
+  {
+    "name": "Vinay",
+    "role": "contributor",
+    "profile_pic": "vinay.jpg",
+    "email": "vinay.manipal05@gmail.com",
+    "github_link": "winay05",
+    "linkedIn_link": "vinay-kumar-dahiya-2138a1179"
+  },
+  {
+    "name": "Aryan Vats",
+    "role": "contributor",
+    "profile_pic": "aryan.png",
+    "email": "avats101@gmail.com",
+    "github_link": "avats101",
+    "linkedIn_link": "aryan-vats"
+  }
 ]
