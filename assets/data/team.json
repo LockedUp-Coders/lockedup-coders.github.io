@@ -14,5 +14,13 @@
         "email":"vivekshah9969@gmail.com",
         "github_link": "https://github.com/vivekshah1801",
         "linkedIn_link": "https://www.linkedin.com/in/vivekshah1801/"
+    },
+    {
+        "name":"vipul krishna",
+        "role":"contributor",
+        "profile_pic":"../assets/team/vipul.jpg",
+        "email":"vipul07.mathuria@gmail.com",
+        "github_link":"https://github.com/vipul1999",
+        "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
     }
 ]
