@@ -2,7 +2,7 @@
     {
         "name":"John Doe",
         "role":"admin/maintainer/contributor",
-        "profile_pic":"path/to/photos/johnDoe.jpg",
+        "profile_pic":"../assets/images/johnDoe.jpg",
         "email":"johndoe@example.com",
         "github_link": "https://github.com/johndoe",
         "linkedIn_link": "https://www.linkedin.com/in/johndoe/"
@@ -24,13 +24,21 @@
         "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
     },
     {
+        "name":"Tanay Raj",
+        "role":"contributor",
+        "profile_pic":"../assets/images/tanay.jpg",
+        "email":"tanay.raj76@gmail.com",
+        "github_link":"https://github.com/tanay13",
+        "linkedIn_link":"https://www.linkedin.com/in/tanay-raj-4761121a1/"
+    },
+    {
         "name":"Vinay",
         "role":"contributor",
         "profile_pic":"../assets/team/vinay.jpg",
         "email":"vinay.manipal05@gmail.com",
         "github_link":"https://github.com/winay05",
         "linkedIn_link":"https://www.linkedin.com/in/vinay-kumar-dahiya-2138a1179/"
-    }
+    },
     {
         "name":"Aryan Vats",
         "role":"contributor",
@@ -39,3 +47,4 @@
         "github_link":"https://github.com/avats101",
         "linkedIn_link":"https://www.linkedin.com/in/aryan-vats/"
     }
+]
