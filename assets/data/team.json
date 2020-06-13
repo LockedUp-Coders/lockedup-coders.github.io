@@ -1,3 +1,4 @@
+  
 [
   {
     "name": "Yash Kumar Verma",
@@ -64,6 +65,13 @@
     "linkedIn_link": "aryan-vats"
   },
   {
+  "name": "Arpit Upadhyay",
+  "role": "contributor",
+  "profile_pic": "../assets/team/arpit.jpg",
+  "email": "arpit.au.upadhyay@gmail.com",
+  "github_link": "https://github.com/ausome197",
+  "linkedIn_link": ""
+ },{
     "name": "Hayat Tamboli",
     "role": "contributor",
     "profile_pic": "hayat.jpg",
