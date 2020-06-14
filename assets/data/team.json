@@ -65,20 +65,30 @@
     "linkedIn_link": "aryan-vats"
   },
   {
-  "name": "Arpit Upadhyay",
-  "role": "contributor",
-  "profile_pic": "arpit.jpg",
-  "email": "arpit.au.upadhyay@gmail.com",
-  "github_link": "https://github.com/ausome197",
-  "linkedIn_link": ""
- },{
+    "name": "Vaishnav Srinidhi",
+	  "role": "contributor",
+	  "profile_pic": "Vaishnav.jpg",
+	  "email": "vaishnavsrinidhi@gmail.com",
+	  "github_link": "https://github.com/V41SH",
+	  "linkedIn_link": "www.linkedin.com/in/vaishnav-srinidhi"
+  },
+  {
+    "name": "Arpit Upadhyay",
+    "role": "contributor",
+    "profile_pic": "arpit.jpg",
+    "email": "arpit.au.upadhyay@gmail.com",
+    "github_link": "https://github.com/ausome197",
+    "linkedIn_link": ""
+  },
+  {
     "name": "Hayat Tamboli",
     "role": "contributor",
     "profile_pic": "hayat.jpg",
     "email": "hayat.tamboli@gmail.com",
     "github_link": "hayat-tamboli",
     "linkedIn_link": "hayat-tamboli"
-  },{
+  },
+  {
     "name": "Sourav Paul",
     "role": "contributor",
     "profile_pic": "sourav.jpg",
