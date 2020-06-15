@@ -11,6 +11,15 @@
         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="assets/css/team.css">
     <title>Our Team</title>
+    <style>
+        .image_hover{
+            transition: transform .2s;
+        }
+        .image_hover:hover{
+            transform: scale(1.2);
+        }
+    </style>
+
 </head>
 
 <body>
@@ -38,7 +47,7 @@
                 url: "./assets/data/team.json",
                 success: (data) => {
                     data.forEach(item => {
-                        element.append(`<div class="d-flex flex-column justify-content-center align-items-center"><img width="150" height="150" src="./assets/images/${item.profile_pic}" /> <p>${item.name}</p> </div>`)
+                        element.append(`<div class=" image_hover     d-flex flex-column justify-content-center align-items-center"><img width="150" height="150" src="./assets/images/${item.profile_pic}" /> <p class="text-secondary">${item.name}</p > </div>`)
                     })
                 }
             })
